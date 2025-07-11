@@ -1,0 +1,19 @@
+{
+  "order_id": "b136b66b-8980-458c-b1a2-82d9b69a2edb",
+  "fecha_orden": "11/03/2024 19:32:19",
+  "customer_id": 1317,
+  "employee_id": 1737,
+  "quantity_products": 32,
+  "ubicacion": {
+    "latitude": 6.206679,
+    "longitude": -75.591556,
+    "ciudad": "Medellín",
+    "departamento": "Antioquia",
+    "barrio": "GUAYABAL"
+  },
+  "metadata": {
+    "timestamp_generacion": "2025-07-11T09:54:16.902394",
+    "version_simulacion": "3.1",
+    "fuente_datos": "Faker + Simulación Geoespacial"
+  }
+}

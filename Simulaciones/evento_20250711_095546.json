@@ -1,0 +1,19 @@
+{
+  "order_id": "44eff0d3-d59e-4720-a1c5-43b94c845348",
+  "fecha_orden": "02/01/2025 00:53:34",
+  "customer_id": 1986,
+  "employee_id": 6696,
+  "quantity_products": 31,
+  "ubicacion": {
+    "latitude": 6.269549,
+    "longitude": -75.551135,
+    "ciudad": "Medellín",
+    "departamento": "Antioquia",
+    "barrio": "MANRIQUE"
+  },
+  "metadata": {
+    "timestamp_generacion": "2025-07-11T09:55:46.914825",
+    "version_simulacion": "3.1",
+    "fuente_datos": "Faker + Simulación Geoespacial"
+  }
+}

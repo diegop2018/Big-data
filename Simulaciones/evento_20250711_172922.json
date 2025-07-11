@@ -1,0 +1,19 @@
+{
+  "order_id": "41584a35-3fed-4550-a819-1d161a9e1b92",
+  "fecha_orden": "04/03/2025 04:11:59",
+  "customer_id": 5356,
+  "employee_id": 6659,
+  "quantity_products": 44,
+  "ubicacion": {
+    "latitude": 6.323168,
+    "longitude": -75.667405,
+    "ciudad": "Medellín",
+    "departamento": "Antioquia",
+    "barrio": "CORREGIMIENTO DE SAN SEBASTIÁN DE PALMITAS"
+  },
+  "metadata": {
+    "timestamp_generacion": "2025-07-11T17:29:22.379152",
+    "version_simulacion": "3.1",
+    "fuente_datos": "Faker + Simulación Geoespacial"
+  }
+}

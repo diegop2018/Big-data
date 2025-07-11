@@ -1,0 +1,19 @@
+{
+  "order_id": "59426d2d-7a33-48d3-9878-6ab0c3970f8d",
+  "fecha_orden": "02/04/2025 14:03:38",
+  "customer_id": 5875,
+  "employee_id": 1679,
+  "quantity_products": 25,
+  "ubicacion": {
+    "latitude": 6.301969,
+    "longitude": -75.582467,
+    "ciudad": "Medellín",
+    "departamento": "Antioquia",
+    "barrio": "DOCE DE OCTUBRE"
+  },
+  "metadata": {
+    "timestamp_generacion": "2025-07-11T17:27:52.366964",
+    "version_simulacion": "3.1",
+    "fuente_datos": "Faker + Simulación Geoespacial"
+  }
+}

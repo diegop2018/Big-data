@@ -1,0 +1,19 @@
+{
+  "order_id": "80a9e87e-fb21-431c-acc3-fc2cadf0e7c4",
+  "fecha_orden": "05/05/2025 19:08:09",
+  "customer_id": 5133,
+  "employee_id": 1737,
+  "quantity_products": 39,
+  "ubicacion": {
+    "latitude": 6.24835,
+    "longitude": -75.572335,
+    "ciudad": "Medellín",
+    "departamento": "Antioquia",
+    "barrio": "LA CANDELARIA"
+  },
+  "metadata": {
+    "timestamp_generacion": "2025-07-11T17:22:52.325573",
+    "version_simulacion": "3.1",
+    "fuente_datos": "Faker + Simulación Geoespacial"
+  }
+}

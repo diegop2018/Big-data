@@ -1,0 +1,19 @@
+{
+  "order_id": "2ac4e045-e5e2-47a4-b116-8dcce0f828d4",
+  "fecha_orden": "17/03/2025 08:46:14",
+  "customer_id": 8834,
+  "employee_id": 1473,
+  "quantity_products": 18,
+  "ubicacion": {
+    "latitude": 6.263006,
+    "longitude": -75.587623,
+    "ciudad": "Medellín",
+    "departamento": "Antioquia",
+    "barrio": "LAURELES ESTADIO"
+  },
+  "metadata": {
+    "timestamp_generacion": "2025-07-11T09:56:46.924215",
+    "version_simulacion": "3.1",
+    "fuente_datos": "Faker + Simulación Geoespacial"
+  }
+}

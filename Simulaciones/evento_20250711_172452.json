@@ -1,0 +1,19 @@
+{
+  "order_id": "83ebfc94-92a3-47b8-a888-babc64074e7b",
+  "fecha_orden": "13/03/2025 08:52:00",
+  "customer_id": 3952,
+  "employee_id": 9438,
+  "quantity_products": 17,
+  "ubicacion": {
+    "latitude": 6.251834,
+    "longitude": -75.667554,
+    "ciudad": "Medellín",
+    "departamento": "Antioquia",
+    "barrio": "CORREGIMIENTO DE SAN ANTONIO DE PRADO"
+  },
+  "metadata": {
+    "timestamp_generacion": "2025-07-11T17:24:52.341447",
+    "version_simulacion": "3.1",
+    "fuente_datos": "Faker + Simulación Geoespacial"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "order_id": "4e7705c0-6762-4b26-ade3-503cf1f7fb08",
+  "fecha_orden": "15/12/2024 19:56:02",
+  "customer_id": 5534,
+  "employee_id": 6337,
+  "quantity_products": 10,
+  "ubicacion": {
+    "latitude": 6.294575,
+    "longitude": -75.552173,
+    "ciudad": "Medellín",
+    "departamento": "Antioquia",
+    "barrio": "SANTA CRUZ"
+  },
+  "metadata": {
+    "timestamp_generacion": "2025-07-11T09:56:16.918761",
+    "version_simulacion": "3.1",
+    "fuente_datos": "Faker + Simulación Geoespacial"
+  }
+}

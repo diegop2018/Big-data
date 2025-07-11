@@ -1,0 +1,19 @@
+{
+  "order_id": "92a5470c-a49d-44a5-b4fa-d205730f6d7e",
+  "fecha_orden": "15/03/2025 14:36:30",
+  "customer_id": 8048,
+  "employee_id": 1482,
+  "quantity_products": 5,
+  "ubicacion": {
+    "latitude": 6.294546,
+    "longitude": -75.59454,
+    "ciudad": "Medellín",
+    "departamento": "Antioquia",
+    "barrio": "ROBLEDO"
+  },
+  "metadata": {
+    "timestamp_generacion": "2025-07-11T17:21:52.313637",
+    "version_simulacion": "3.1",
+    "fuente_datos": "Faker + Simulación Geoespacial"
+  }
+}

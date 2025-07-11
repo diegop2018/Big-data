@@ -1,0 +1,19 @@
+{
+  "order_id": "e55d4808-2665-4a36-9dd7-549f9f560a20",
+  "fecha_orden": "27/08/2024 17:57:45",
+  "customer_id": 9090,
+  "employee_id": 9726,
+  "quantity_products": 30,
+  "ubicacion": {
+    "latitude": 6.20702,
+    "longitude": -75.555845,
+    "ciudad": "Medellín",
+    "departamento": "Antioquia",
+    "barrio": "EL POBLADO"
+  },
+  "metadata": {
+    "timestamp_generacion": "2025-07-11T09:53:46.896774",
+    "version_simulacion": "3.1",
+    "fuente_datos": "Faker + Simulación Geoespacial"
+  }
+}
