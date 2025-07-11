@@ -1,0 +1,19 @@
+{
+  "order_id": "4bdc8818-05da-46ba-9614-78a5f13894cf",
+  "fecha_orden": "30/04/2024 03:01:49",
+  "customer_id": 6396,
+  "employee_id": 1473,
+  "quantity_products": 22,
+  "ubicacion": {
+    "latitude": 6.250532,
+    "longitude": -75.642966,
+    "ciudad": "Medellín",
+    "departamento": "Antioquia",
+    "barrio": "CORREGIMIENTO DE ALTAVISTA"
+  },
+  "metadata": {
+    "timestamp_generacion": "2025-07-11T17:50:38.432187",
+    "version_simulacion": "3.1",
+    "fuente_datos": "Faker + Simulación Geoespacial"
+  }
+}

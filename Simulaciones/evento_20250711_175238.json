@@ -1,0 +1,19 @@
+{
+  "order_id": "dec65c50-6a27-444e-89a3-2e3840cf7822",
+  "fecha_orden": "17/11/2024 19:35:45",
+  "customer_id": 4032,
+  "employee_id": 9435,
+  "quantity_products": 16,
+  "ubicacion": {
+    "latitude": 6.207781,
+    "longitude": -75.601528,
+    "ciudad": "Medellín",
+    "departamento": "Antioquia",
+    "barrio": "BELÉN"
+  },
+  "metadata": {
+    "timestamp_generacion": "2025-07-11T17:52:38.470698",
+    "version_simulacion": "3.1",
+    "fuente_datos": "Faker + Simulación Geoespacial"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "order_id": "582d7e94-f21b-4c0b-9597-0796cbcb154b",
+  "fecha_orden": "05/12/2023 06:10:01",
+  "customer_id": 6228,
+  "employee_id": 6659,
+  "quantity_products": 15,
+  "ubicacion": {
+    "latitude": 6.25493,
+    "longitude": -75.497111,
+    "ciudad": "Medellín",
+    "departamento": "Antioquia",
+    "barrio": "CORREGIMIENTO DE SANTA ELENA"
+  },
+  "metadata": {
+    "timestamp_generacion": "2025-07-11T17:52:08.465905",
+    "version_simulacion": "3.1",
+    "fuente_datos": "Faker + Simulación Geoespacial"
+  }
+}

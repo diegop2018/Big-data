@@ -1,0 +1,19 @@
+{
+  "order_id": "11278009-73a7-4e68-9533-555d1c3228f9",
+  "fecha_orden": "12/01/2024 08:46:15",
+  "customer_id": 4290,
+  "employee_id": 1561,
+  "quantity_products": 4,
+  "ubicacion": {
+    "latitude": 6.267187,
+    "longitude": -75.569667,
+    "ciudad": "Medellín",
+    "departamento": "Antioquia",
+    "barrio": "ARANJUEZ"
+  },
+  "metadata": {
+    "timestamp_generacion": "2025-07-11T17:50:08.416707",
+    "version_simulacion": "3.1",
+    "fuente_datos": "Faker + Simulación Geoespacial"
+  }
+}
