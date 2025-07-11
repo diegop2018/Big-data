@@ -1,0 +1,18 @@
+{
+  "order_id": "3ba65790-8692-4a84-866a-4f1e726b8924",
+  "fecha_orden": "04/03/2025 22:04:20",
+  "customer_id": 5364,
+  "employee_id": 4750,
+  "quantity_products": 43,
+  "ubicacion": {
+    "latitude": 6.230484,
+    "longitude": -75.598705,
+    "ciudad": "Medellín",
+    "departamento": "Antioquia"
+  },
+  "metadata": {
+    "timestamp_generacion": "2025-07-10T13:51:17.164099",
+    "version_simulacion": "3.0",
+    "fuente_datos": "Faker + Simulación Optimizada"
+  }
+}

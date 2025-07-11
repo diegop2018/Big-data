@@ -1,0 +1,17 @@
+# config.yaml
+
+# Rutas principales
+base_data_path: Base_data
+simulaciones_path: Simulaciones
+log_path: logs/app.log
+
+# Parámetros de simulación
+intervalo_eventos: 30         # segundos entre eventos
+faker_locale: es_CO
+max_productos: 50
+min_productos: 1
+dias_rango_fecha: 600        # eventos en los últimos X días
+
+# Coordenadas de simulación
+lat_range: [6.200, 6.350]
+lon_range: [-75.650, -75.540] 
